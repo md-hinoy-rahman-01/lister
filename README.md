@@ -1,16 +1,17 @@
 # lister
 
-A new Flutter project.
+This is a flutter app made with SQLite. Here users can make notes and then view them later. It is a simple but effective database app for smart phones.
 
-## Getting Started
+# Landing Page
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/7d9b3c1d-5ef9-4eb9-b044-506218d917e5" />
 
-This project is a starting point for a Flutter application.
+# Entry Page
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/88a0a40f-057e-46bb-9db2-37739c2b8e99" />
 
-A few resources to get you started if this is your first Flutter project:
+# Saving Entry
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/b900e010-aad9-4ed5-b105-ddb14f81a15b" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Viewing Entries
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/d4de6fa2-2c31-4a13-aaf4-ef8d459f5e55" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
