@@ -3,14 +3,14 @@
 This is a flutter app made with SQLite. Here users can make notes and then view them later. It is a simple but effective database app for smart phones.
 
 # Landing Page
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/7d9b3c1d-5ef9-4eb9-b044-506218d917e5" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/801713b6-f773-4889-9748-8b8812673cfa" />
 
 # Entry Page
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/88a0a40f-057e-46bb-9db2-37739c2b8e99" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/43a6685c-e9bc-4216-86c9-e96e07c81dfe" />
 
 # Saving Entry
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/d4de6fa2-2c31-4a13-aaf4-ef8d459f5e55" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/139934d8-b009-4506-b6fd-0c31a6525b5a" />
 
 # Viewing Entries
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/fabdb041-910c-4889-8b29-b71daeadf2fb" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8a1072cf-2b60-4ea2-bda8-1787caaefa90" />
 
